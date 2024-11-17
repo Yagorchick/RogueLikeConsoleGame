@@ -1,0 +1,14 @@
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\RogueLikeGame\bin\Debug\net8.0\RogueLikeGame.exe
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\RogueLikeGame\bin\Debug\net8.0\RogueLikeGame.deps.json
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\RogueLikeGame\bin\Debug\net8.0\RogueLikeGame.runtimeconfig.json
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\RogueLikeGame\bin\Debug\net8.0\RogueLikeGame.dll
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\RogueLikeGame\bin\Debug\net8.0\RogueLikeGame.pdb
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\RogueLikeGame\obj\Debug\net8.0\RogueLikeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\RogueLikeGame\obj\Debug\net8.0\RogueLikeGame.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\RogueLikeGame\obj\Debug\net8.0\RogueLikeGame.AssemblyInfo.cs
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\RogueLikeGame\obj\Debug\net8.0\RogueLikeGame.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\RogueLikeGame\obj\Debug\net8.0\RogueLikeGame.dll
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\RogueLikeGame\obj\Debug\net8.0\refint\RogueLikeGame.dll
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\RogueLikeGame\obj\Debug\net8.0\RogueLikeGame.pdb
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\RogueLikeGame\obj\Debug\net8.0\RogueLikeGame.genruntimeconfig.cache
+C:\Users\chris\Desktop\Collage\Разработка программ (116)\RogueLikeGame\obj\Debug\net8.0\ref\RogueLikeGame.dll
