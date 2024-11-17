@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chris\\Desktop\\Collage\\Разработка программ (116)\\RogueLikeGame\\RogueLikeGame.csproj": {}
+    "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\RogueLikeConsoleGame\\RogueLikeConsoleGame\\src\\RogueLikeGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chris\\Desktop\\Collage\\Разработка программ (116)\\RogueLikeGame\\RogueLikeGame.csproj": {
+    "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\RogueLikeConsoleGame\\RogueLikeConsoleGame\\src\\RogueLikeGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chris\\Desktop\\Collage\\Разработка программ (116)\\RogueLikeGame\\RogueLikeGame.csproj",
+        "projectUniqueName": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\RogueLikeConsoleGame\\RogueLikeConsoleGame\\src\\RogueLikeGame.csproj",
         "projectName": "RogueLikeGame",
-        "projectPath": "C:\\Users\\chris\\Desktop\\Collage\\Разработка программ (116)\\RogueLikeGame\\RogueLikeGame.csproj",
+        "projectPath": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\RogueLikeConsoleGame\\RogueLikeConsoleGame\\src\\RogueLikeGame.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chris\\Desktop\\Collage\\Разработка программ (116)\\RogueLikeGame\\obj\\",
+        "outputPath": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\RogueLikeConsoleGame\\RogueLikeConsoleGame\\src\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",

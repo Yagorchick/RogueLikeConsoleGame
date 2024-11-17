@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\chris\\Desktop\\Collage\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C (116)\\RogueLikeGame\\",
+  "WorkspaceRootPath": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\RogueLikeConsoleGame\\RogueLikeConsoleGame\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B3DF0EE-AEA4-4E09-9C7A-BCABD0AD5BF0}|RogueLikeGame.csproj|c:\\users\\chris\\desktop\\collage\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C (116)\\roguelikegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B3DF0EE-AEA4-4E09-9C7A-BCABD0AD5BF0}|RogueLikeGame.csproj|c:\\users\\chris\\desktop\\projects\\github\\roguelikeconsolegame\\roguelikeconsolegame\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B3DF0EE-AEA4-4E09-9C7A-BCABD0AD5BF0}|RogueLikeGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\Collage\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C (116)\\RogueLikeGame\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\RogueLikeConsoleGame\\RogueLikeConsoleGame\\src\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\chris\\Desktop\\Collage\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C (116)\\RogueLikeGame\\Program.cs",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\Projects\\GitHub\\RogueLikeConsoleGame\\RogueLikeConsoleGame\\src\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAALcAAAAAAAAAAAAUwFYAAACAAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowGMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T07:20:25.95Z",
               "EditorCaption": ""

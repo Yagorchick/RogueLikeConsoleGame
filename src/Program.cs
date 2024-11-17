@@ -95,9 +95,9 @@ public class Player
         Random rnd = new Random();
         List<Aid> aids = new List<Aid>
         {
-            new Aid("Малая аптечка", 25),
-            new Aid("Средняя аптечка", 40),
-            new Aid("Большая аптечка", 65)
+            new Aid("Малая аптечка", 10),
+            new Aid("Средняя аптечка", 15),
+            new Aid("Большая аптечка", 20)
         };
 
         return aids[rnd.Next(aids.Count)];

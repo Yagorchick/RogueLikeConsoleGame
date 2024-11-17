@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RogueLikeGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92f57482373653a47f6436b05869aaae1470db43")]
 [assembly: System.Reflection.AssemblyProductAttribute("RogueLikeGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RogueLikeGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
